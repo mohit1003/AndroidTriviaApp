@@ -1,0 +1,4 @@
+#Tue Jun 30 01:50:06 IST 2020
+base.0=/Users/mohitkulkarni/AndroidStudioProjects/Trivia/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
